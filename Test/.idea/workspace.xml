@@ -17,7 +17,14 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
+              <folding>
+                <element signature="e#331#339#0" expanded="true" />
+                <element signature="e#1554#1562#0" expanded="true" />
+                <element signature="e#1653#1661#0" expanded="true" />
+                <element signature="e#2532#2540#0" expanded="true" />
+                <element signature="e#2630#2638#0" expanded="true" />
+                <element signature="e#2714#2722#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,7 +200,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#331#339#0" expanded="true" />
+            <element signature="e#1554#1562#0" expanded="true" />
+            <element signature="e#1653#1661#0" expanded="true" />
+            <element signature="e#2532#2540#0" expanded="true" />
+            <element signature="e#2630#2638#0" expanded="true" />
+            <element signature="e#2714#2722#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -201,7 +215,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
+          <folding>
+            <element signature="e#331#339#0" expanded="true" />
+            <element signature="e#1554#1562#0" expanded="true" />
+            <element signature="e#1653#1661#0" expanded="true" />
+            <element signature="e#2532#2540#0" expanded="true" />
+            <element signature="e#2630#2638#0" expanded="true" />
+            <element signature="e#2714#2722#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
